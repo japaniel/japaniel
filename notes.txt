@@ -1,0 +1,19 @@
+Responsive web design 
+
+Target these screen sizes 
+320px
+480px
+600px
+768px
+900px
+1200px
+
+
+
+TODO 
+
+*Media queries
+*Microformats
+*schema.org
+*webfonts - namely googles
+
